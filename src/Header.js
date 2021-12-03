@@ -13,7 +13,7 @@ function Header() {
 
       <img
         className="header__logo"
-        src="https://www.freepnglogos.com/uploads/love-logo-23.jpg"
+        src="https://www.freepnglogos.com/uploads/mac-cosmetic-png-logo/makeup-love-mac-cosmetic-png-logo-20.png"
         alt=""
       />
       <IconButton>
